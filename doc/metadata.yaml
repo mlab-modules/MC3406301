@@ -1,0 +1,15 @@
+description: ' Switched power unit with adjustable regulator.'
+github_branch: MC3406301A
+github_description: ' Switched power unit with adjustable regulator.'
+github_repo: MC3406301
+github_url: https://github.com/mlab-modules/MC3406301
+homepage: false
+images:
+- doc/img/MC3406301A_small.jpg
+- doc/img/MC3406301A_big.jpg
+- doc/img/MC3406301A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: MC3406301
+updated: '2023-09-17T11:43:20.784244+00:00'
